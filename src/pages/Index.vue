@@ -1,5 +1,5 @@
 <template>
-  <Layout pageTitle="Starter Blog" pageSubtitle="Gridsome / Buefy / Netlify CMS">
+  <Layout pageTitle="Diana Cataño" pageSubtitle="Página web">
     <div class="section">
       <div class="container">
         <div class="columns">
@@ -100,7 +100,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Hello, world!',
+    title: 'Diana Cataño',
   },
 };
 </script>

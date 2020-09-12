@@ -1,5 +1,5 @@
 ---
-title: It's All Gibberish!
+title: Titulo
 author: chad-collins
 tags:
   - Development
