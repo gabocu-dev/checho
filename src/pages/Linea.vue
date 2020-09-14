@@ -3,9 +3,9 @@
     <section class="section">
       <div class="container">
         <div class="content">
-            <h1>TIRA CÓMICA</h1>
-            <iframe src="//www.pixton.com/es/embed/t3drrsrh" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
-            <a href="https://Pixton.com/es/:t3drrsrh" target="_blank">Tira Cómica en Pixton</a>
+            <h1>LÍNEA DEL TIEMPO</h1>
+            <img src="@/assets/images/timeline.png" alt="Time Line"/>
+            <a href="https://www.timetoast.com/timelines/2339524" target="_blank">Ver en Time Toast</a>
         </div>
       </div>
     </section>
