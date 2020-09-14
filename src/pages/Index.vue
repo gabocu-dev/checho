@@ -1,70 +1,18 @@
 <template>
-  <Layout pageTitle="Diana Cataño" pageSubtitle="Página web">
+  <Layout pageTitle="Teoria Celular" pageSubtitle1="Diana Maria Cataño" pageSubtitle2="Yenny Liliana Mosquera">
     <div class="section">
       <div class="container">
         <div class="columns">
-          <div class="column"></div>
-          <div class="column cards-grid is-four-fifths">
-            <article class="card grid-item" v-for="edge in $page.posts.edges" :key="edge.node.id">
-              <div class="card-image">
-                <g-link :to="edge.node.path">
-                  <figure class="image is-16by9">
-                    <img
-                      :src="`../../${edge.node.featuredImage}`"
-                      :alt="`${edge.node.title} image`"
-                    />
-                  </figure>
-                </g-link>
-              </div>
-
-              <div class="card-content">
-                <div class="media">
-                  <div class="media-left">
-                    <g-link :to="edge.node.author.path">
-                      <figure class="image is-48x48">
-                        <img :src="`../../${edge.node.author.image}`" alt="Placeholder image" />
-                      </figure>
-                    </g-link>
-                  </div>
-                  <div class="media-content">
-                    <h2 class="title is-4">
-                      <g-link :to="edge.node.path">
-                        {{ edge.node.title }}
-                      </g-link>
-                    </h2>
-                    <p class="subtitle is-6">
-                      <g-link :to="edge.node.author.path">
-                        {{ edge.node.author.title }}
-                      </g-link>
-                    </p>
-                  </div>
-                </div>
-
-                <div class="content">
-                  {{ edge.node.excerpt }}
-                </div>
-
-                <div>
-                  <span v-for="(tag, index) in edge.node.tags" :key="tag.id">
-                    <div class="tag">
-                      <g-link :to="tag.path">
-                        {{ tag.id }}
-                      </g-link>
-                    </div>
-
-                    <!-- We will add a comma separator for the tags -->
-                    <span v-if="index + 1 < edge.node.tags.length">
-                      ,
-                    </span>
-                  </span>
-                </div>
-              </div>
-            </article>
-
-            <div class="grid-item"></div>
-            <div class="grid-item"></div>
+          <div class="separador">
+            <h1>DIANA CATAÑO</h1>
+            <embed type="text/html" src="https://www.voki.com/site/pickup?scid=16788789&chsm=6d34d8000a258736b1da3caab38910e5&allowshare=0" width="1000" height="600">
+            <a href="https://www.voki.com/site/pickup?scid=16788789&chsm=6d34d8000a258736b1da3caab38910e5&allowshare=0" target="_blank">Ver en Voki</a>
           </div>
-          <div class="column"></div>
+          <div class="separador">
+            <h1>LILIANA MOSQUERA</h1>
+            <embed type="text/html" src="https://www.voki.com/site/pickup?scid=16788798&chsm=d4ded44c8feb37e69a4ec7bcbd72c3b6&allowshare=0" width="1000" height="600">
+            <a href="https://www.voki.com/site/pickup?scid=16788798&chsm=d4ded44c8feb37e69a4ec7bcbd72c3b6&allowshare=0" target="_blank">Ver en Voki</a>
+          </div>
         </div>
       </div>
     </div>
@@ -100,7 +48,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Diana Cataño',
+    title: 'La Celula',
   },
 };
 </script>
@@ -117,6 +65,10 @@ export default {
   list-style: none;
   width: 100%;
   justify-content: center;
+}
+
+.separador {
+  margin: 0 20px;
 }
 
 /* Mobile First */
