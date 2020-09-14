@@ -10,6 +10,7 @@
             mientras que las células eucariotas poseen su contenido nuclear dentro de una membrana.
           </p>
           <img src="@/assets/images/celulas.png" alt="Tipos Celulas"/>
+          <a href="https://www.educapeques.com/recursos-para-el-aula/conocimiento-del-medio-primaria/la-celula-guia-aprender-las-celulas.html" target="_blank">Fuente Imágen: https://www.educapeques.com</a>
           <p>
             Los procariontes tienen su material genético disperso en el citoplasma. 
             Los eucariontes poseen núcleo, donde se encuentra el material genético de la célula.
@@ -21,6 +22,7 @@
           <iframe width="1000" height="600" src="https://www.youtube.com/embed/zWb9uStf6tI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
           <img src="@/assets/images/funciones.png" alt="Funciones Celula"/>
+          <a href="https://cmapspublic3.ihmc.us/rid=1M97VLX9W-13B60SS-15W9/LAS%20FUNCIONES%20VITALES.cmap" target="_blank">Fuente Imágen: https://cmapspublic3.ihmc.us</a>
           <h2>SERES UNICELULARES Y PLURICELULARES</h2> 
           <p>Los individuos pueden ser:</p>
           <ul>

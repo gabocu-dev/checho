@@ -2,14 +2,20 @@
   <Layout pageTitle="Teoria Celular" pageSubtitle1="Diana Maria Cataño" pageSubtitle2="Yenny Liliana Mosquera">
     <div class="section">
       <div class="container">
+        <p>MAPA MENTAL</p>
+        <img src="@/assets/images/mapamental.jpeg" alt="Mapa Mental"/>
+        <hr>
+        <p>AVATARES</p>
+        <br>
+        <br>
         <div class="columns">
           <div class="separador">
-            <h1>DIANA CATAÑO</h1>
+            <p>DIANA CATAÑO</p>
             <embed type="text/html" src="https://www.voki.com/site/pickup?scid=16788789&chsm=6d34d8000a258736b1da3caab38910e5&allowshare=0" width="1000" height="600">
             <a href="https://www.voki.com/site/pickup?scid=16788789&chsm=6d34d8000a258736b1da3caab38910e5&allowshare=0" target="_blank">Ver en Voki</a>
           </div>
           <div class="separador">
-            <h1>LILIANA MOSQUERA</h1>
+            <p>LILIANA MOSQUERA</p>
             <embed type="text/html" src="https://www.voki.com/site/pickup?scid=16788798&chsm=d4ded44c8feb37e69a4ec7bcbd72c3b6&allowshare=0" width="1000" height="600">
             <a href="https://www.voki.com/site/pickup?scid=16788798&chsm=d4ded44c8feb37e69a4ec7bcbd72c3b6&allowshare=0" target="_blank">Ver en Voki</a>
           </div>

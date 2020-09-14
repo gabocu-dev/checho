@@ -28,6 +28,8 @@
             <li><strong>Vacuola:</strong> es un órgano encargado de digerir nutrientes que están en la célula o que penetran en ella.</li>
           </ul>
           <img src="@/assets/images/celula-vegetal.png" alt="Celula Vegetal"/>
+          <a href="https://www.educapeques.com/recursos-para-el-aula/conocimiento-del-medio-primaria/la-celula-guia-aprender-las-celulas.html" target="_blank">Fuente Imágen: https://www.educapeques.com</a>
+          <br>
           <h2>Células animales:</h2> 
           <p>
             Básicamente podemos decir que las células actuales de origen animal son como las de los 
@@ -44,6 +46,8 @@
             <li><strong>Vacuola:</strong> es un orgánulo que tiene las mismas funciones digestivas que en una célula vegetal.</li>
           </ul>
             <img src="@/assets/images/celula-animal.png" alt="Celula Animal"/>
+            <a href="https://www.educapeques.com/recursos-para-el-aula/conocimiento-del-medio-primaria/la-celula-guia-aprender-las-celulas.html" target="_blank">Fuente Imágen: https://www.educapeques.com</a>
+            <br>
             <p>Lo único que puede diferenciar una célula vegetal de un animal es la presencia del cloroplasto, 
                 ya que los vegetales o plantas fabrican sus propios alimentos, mientras que los seres vivos 
                 que no realizan esta función, no requieren cloroplastos en sus células, sino que poseen células 
@@ -54,6 +58,7 @@
                 nutrirse, crecer, reproducirse o morir, después de que sus funciones terminaron.
             </p>
           <img src="@/assets/images/comparacion.png" alt="Comparacion"/>
+          <a href="https://www.educapeques.com/recursos-para-el-aula/conocimiento-del-medio-primaria/la-celula-guia-aprender-las-celulas.html" target="_blank">Fuente Imágen: https://www.educapeques.com</a>
         </div>
       </div>
     </section>

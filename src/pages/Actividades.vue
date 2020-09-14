@@ -5,13 +5,13 @@
         <div class="content">
             <h1>ACTIVIDADES</h1>
             <iframe src="https://lacelula400302374.files.wordpress.com/2020/09/celula-procariota-vs-celula-eucariota.pdf" width="800" height="600"></iframe>
-            <a href="https://lacelula400302374.files.wordpress.com/2020/09/celula-procariota-vs-celula-eucariota.pdf">Abrir PDF</a>
+            <a href="https://lacelula400302374.files.wordpress.com/2020/09/celula-procariota-vs-celula-eucariota.pdf">Ver fuente del PDF</a>
             <hr>
             <iframe src="https://lacelula400302374.files.wordpress.com/2020/09/completa-los-espacios-en-blanco-y-escribe-en-el-crucicelula.pdf" width="800" height="600"></iframe>
-            <a href="https://lacelula400302374.files.wordpress.com/2020/09/completa-los-espacios-en-blanco-y-escribe-en-el-crucicelula.pdf">Abrir PDF</a>
+            <a href="https://lacelula400302374.files.wordpress.com/2020/09/completa-los-espacios-en-blanco-y-escribe-en-el-crucicelula.pdf">Ver fuente del PDF</a>
             <hr>
             <iframe src="https://lacelula400302374.files.wordpress.com/2020/09/el-laberinto-de-los-organelos-celulares.pdf" width="800" height="600"></iframe>
-            <a href="https://lacelula400302374.files.wordpress.com/2020/09/el-laberinto-de-los-organelos-celulares.pdf">Abrir PDF</a>           
+            <a href="https://lacelula400302374.files.wordpress.com/2020/09/el-laberinto-de-los-organelos-celulares.pdf">Ver fuente del PDF</a>           
             <hr>
             <h1>REFERENCIAS</h1>
             <ul>
