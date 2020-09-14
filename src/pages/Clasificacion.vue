@@ -20,9 +20,14 @@
           </p>
           
           <iframe width="1000" height="600" src="https://www.youtube.com/embed/zWb9uStf6tI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+          <hr>
+          <h1>Funciones de la célula</h1>
+          <p>Las células están vivas, por eso realizan las tres funciones vitales: nutrición, reproducción 
+            y relación.
+          </p>
           <img src="@/assets/images/funciones.png" alt="Funciones Celula"/>
           <a href="https://cmapspublic3.ihmc.us/rid=1M97VLX9W-13B60SS-15W9/LAS%20FUNCIONES%20VITALES.cmap" target="_blank">Fuente Imágen: https://cmapspublic3.ihmc.us</a>
+          <hr>
           <h2>SERES UNICELULARES Y PLURICELULARES</h2> 
           <p>Los individuos pueden ser:</p>
           <ul>
