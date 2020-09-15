@@ -2,7 +2,7 @@
   <Layout pageTitle="Teoria Celular" pageSubtitle1="Diana Maria Cataño" pageSubtitle2="Yenny Liliana Mosquera">
     <div class="section">
       <div class="container">
-        <p>MAPA MENTAL</p>
+        <p>MAPA DE NAVEGACIÓN</p>
         <img src="@/assets/images/mapamental.jpeg" alt="Mapa Mental"/>
         <hr>
         <p>AVATARES</p>
